@@ -1,0 +1,54 @@
+# macOS system files
+.DS_Store
+
+# Node modules (все зависимости)
+node_modules/
+
+# Expo files
+.expo/
+.expo-shared/
+
+# npm logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# bundler cache
+.bundle
+
+# Testing files
+coverage/
+jest/
+
+# Build outputs
+dist/
+build/
+android/
+ios/
+
+# Dependency directories
+.pnp/
+.pnp.js
+.eslintcache
+.cache/
+
+# Expo debugging files
+debug/
+
+# Typescript compiled files
+*.tsbuildinfo
+
+# Env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE config and metadata
+.vscode/
+.idea/
+
+# Others
+*.log
+*.lock
